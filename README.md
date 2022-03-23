@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lastRemnant0
 - 👀 I’m interested in web development and android development (kotlin).
-- 🌱 I’m currently learning web development.
+- 🌱 currently learning web development.
 - 📫 How to reach me on isnta @ali91.arts
 
 <!---
