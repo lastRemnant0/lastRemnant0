@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lastRemnant0
+- 👋 Hi, I’m Ali Alantaif
 - 👀 I’m interested in web development and android development (kotlin).
 - 🌱 currently learning web development.
 - 📫 How to reach me on isnta @ali91.arts
