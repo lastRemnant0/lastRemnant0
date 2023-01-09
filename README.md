@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali Alantaif
 - 👀 I’m interested in web development and android development (kotlin).
-- 🌱 currently learning web development.
+- 🌱 currently learning web development and ancroid.
 - 📫 How to reach me on isnta @ali91.arts
 
 <!---
