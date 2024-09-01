@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Ali Alantaif
-- 👀 I’m interested in web development and android development (kotlin).
-- 🌱 currently learning web development and ancroid.
-- 📫 How to reach me on isnta @ali91.arts
+- 👀 I’m interested in web development and mobile ( flutter ).
 
 <!---
 lastRemnant0/lastRemnant0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
